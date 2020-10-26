@@ -1,4 +1,3 @@
-# LL-to-Alice
-box for 2008 Red Team Hackathon
+# Love Letter to Alice
 
-added some other stuff for a test
+Box for built for student Red Team Hackathon, currently in review for hosting on Vulnhub. ISO and walkthroughs available upon request
