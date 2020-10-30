@@ -8,4 +8,4 @@ A vulnerable Ubuntu machine built for a Hackathon, intentionally designed to be 
 
 ![](https://i.imgur.com/0YUiEDF.png)
 
-![](https://i.imgur.com/iY4UKr0.png)
+![](https://i.imgur.com/1TQ7n8C.png)
