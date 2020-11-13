@@ -4,7 +4,6 @@ A vulnerable Ubuntu machine built for a CTF Hackathon, intentionally designed to
 
 "____ __ are you $h!++!n me
 ....
-
 i hate you"
 
 "ok, ok, you got me *frustrated sigh*..... ok yeah, that was cute"
