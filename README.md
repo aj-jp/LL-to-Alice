@@ -14,7 +14,8 @@ A vulnerable Ubuntu machine built for a CTF Hackathon, intentionally designed to
 
 "Q from a student: were you on drugs when you made the box?" - Head Instructor
 
-To which my responses are "Yes.", "from you? I'll take it!", "hahahaha!", *virtual fist-bump*, and "You tell that student that *flips hair* I don't need drugs."
+
+To which my responses are, respectively: "Yes.", "from you? I'll take it!", "hahahaha!", *virtual fist-bump*, and "You tell that student that *flips hair* I don't need drugs."
 
 
 Possibly in review for hosting on Vulnhub with significant changes. At present the OVA file, as well as a walkthrough and list of flags/clues, is available to view open request.
