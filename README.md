@@ -2,9 +2,9 @@
 
 A vulnerable Ubuntu machine built for a CTF Hackathon, intentionally designed to be of medium difficulty for beginner cybersecurity students. Half of the flags are hidden past web puzzles designed to draw attention to common beginner blindspots. I like to call this a 'kick-yourself" box, and I've been told the mood is super trippy. To quote my Fellow colleagues and instructors:
 
-"____ __ are you $h!++!n me \n
-.... \n
-i hate you"
+"____ __ are you $h!++!n me
+
+....i hate you"
 
 "ok, ok, you got me *frustrated sigh*..... ok yeah, that was cute"
 
