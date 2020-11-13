@@ -1,18 +1,16 @@
 # Love Letters to Alice
 
-A vulnerable Ubuntu machine built for a CTF Hackathon, intentionally designed to be of medium difficulty for beginner cybersecurity students. Half of the flags are hidden past web puzzles designed to draw attention to common beginner blindspots. I like to call this a "kick-yourself" box, and I've been told the mood is quite trippy. Some reviews from my colleagues at FSA:
+A vulnerable Ubuntu machine built for a CTF Hackathon, of medium difficulty for beginner cybersecurity students. Half of the flags are hidden past web puzzles designed to draw attention to common beginner blindspots. The root flag cannot be obtained without having first received all of the other flags. I like to call this a "kick-yourself" box, and I've been told the mood is quite trippy. Some reviews from my colleagues:
 
-"____ __ are you $h!++!n me
+"____ __ are you $h!++!n me      ....i hate you" - an Instructional Associate
 
-....i hate you" - Instructional Associate
+"ok, ok, you got me *frustrated sigh*..... ok yeah, that was cute" - a Senior Instructor
 
-"ok, ok, you got me *frustrated sigh*..... ok yeah, that was cute" - Senior Instructor
+"the only reason you think this is easy is because YOU built it" - a different Senior Instructor
 
-"the only reason you think this is easy is because YOU built it" - Senior Instructor
+"that was wild" - a student
 
-"that was wild" - student
-
-"Q from a student: were you on drugs when you made the box?" - Head Instructor
+"Q from a student: were you on drugs when you made the box?" - the Head Instructor
 
 
 To which my responses are, respectively: "Yes.", "from you? I'll take it!", "hahahaha!", *virtual fist-bump*, and "You tell that student that *flips hair* I don't need drugs."
