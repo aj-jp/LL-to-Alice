@@ -1,6 +1,6 @@
 # Love Letters to Alice
 
-A vulnerable Ubuntu machine built for a CTF Hackathon, of medium difficulty for beginner cybersecurity students. Half of the flags are hidden past web puzzles designed to draw attention to common beginner blindspots. The root flag cannot be obtained without having first received all of the other flags. I like to call this a "kick-yourself" box, and I've been told the mood is quite trippy. Some reviews from my colleagues:
+A vulnerable Ubuntu machine built for a CTF Hackathon, of medium difficulty for beginner cybersecurity students. The web puzzles and attack pathway are all designed to draw attention to common beginner blindspots. The root flag cannot be obtained without having first received all of the other flags. I like to call this a "kick-yourself" box, and I've been told the mood is quite trippy. Some reviews from my colleagues:
 
 "____ __ are you $h!++!n me" - an Instructional Associate
 
